@@ -1,9 +1,12 @@
 ---
 title: "Manifesto Lensa Insight: Menavigasi Realita di Balik Kabut Narasi Global"
+seoTitle: "Lensa Insight: Menavigasi Realita"
+seoDescription: "Lensa Insight: Menavigasi Realita di Balik Kabut Narasi Global"
 datePublished: 2026-04-21T20:59:36.304Z
 cuid: cmo93xcdq00fk1qoc79ycf25v
 slug: manifesto-lensa-insight-menavigasi-realita-di-balik-kabut-narasi-global
 cover: https://cdn.hashnode.com/uploads/covers/69e7d69ee436727814960bd9/ed62e2c3-6bdf-4eab-aab2-3b8c135b617b.webp
+tags: lensainsight
 
 ---
 
